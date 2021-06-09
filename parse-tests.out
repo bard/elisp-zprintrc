@@ -1,0 +1,12 @@
+Failed to zprint: clojure.lang.ExceptionInfo: Unsupported escape character: \C. {:type :reader-exception, :ex-kind :reader-error}
+...in ./parse-tests/edt-user.el
+Failed to zprint: clojure.lang.ExceptionInfo: Invalid number: 3d. {:type :reader-exception, :ex-kind :reader-error}
+...in ./parse-tests/modus-themes.el
+Failed to zprint: clojure.lang.ExceptionInfo: Unsupported character: C-j. {:type :reader-exception, :ex-kind :reader-error}
+...in ./parse-tests/calc-aent.el
+Failed to zprint: clojure.lang.ExceptionInfo: Invalid number: 1-. {:type :reader-exception, :ex-kind :reader-error}
+...in ./parse-tests/calcalg2.el
+Failed to zprint: java.lang.Exception: :meta node expects 2 values. [at line 2, column 30]
+...in ./parse-tests/calc-alg.el
+Failed to zprint: clojure.lang.ExceptionInfo: Invalid symbol: ?:. {:type :reader-exception, :ex-kind :reader-error}
+...in ./parse-tests/calc.el

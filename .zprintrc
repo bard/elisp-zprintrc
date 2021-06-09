@@ -1,0 +1,7 @@
+{:fn-map {"if" :arg1
+          "defun" :arg2
+          "defcustom" :arg2-pair
+          "defvar" :arg2
+          "defgroup" :arg2}
+ }
+
